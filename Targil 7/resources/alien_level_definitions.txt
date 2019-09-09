@@ -1,0 +1,25 @@
+
+# Level 1
+# Image Background and images for blocks
+
+START_LEVEL
+level_name:Battle no.
+ball_velocities:45,550
+background:color(black)
+paddle_speed:650
+paddle_width:100
+block_definitions:definitions/alien_block_definitions.txt
+blocks_start_x:10
+blocks_start_y:10
+row_height:40
+num_blocks:50
+START_BLOCKS
+-
+-e-e-e-e-e-e-e-e-e-e
+-e-e-e-e-e-e-e-e-e-e
+-e-e-e-e-e-e-e-e-e-e
+-e-e-e-e-e-e-e-e-e-e
+-e-e-e-e-e-e-e-e-e-e
+
+END_BLOCKS
+END_LEVEL
